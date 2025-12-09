@@ -186,24 +186,11 @@ Charmander ataca a Squirtle y causa 6 de daño. HP restante: 38
 
 ---
 
-## 📊 Complejidad Algorítmica
-
-**Tiempo:**
-- Carga CSV: `O(n)`
-- Búsqueda por nombre: `O(n)`
-- Operaciones CRUD: `O(n)`
-- Batalla: `O(r)` (r = rondas del combate)
-
-**Espacio:**
-- DataFrame de pokémon: `O(n)`
-
----
-
 ## 🧾 Créditos
 
 Este proyecto fue desarrollado como parte del curso:
 
-**Introducción a la Programación – UNICIENCIA (Python 3)**  
+**Curso Nivelatorio 7mo Semestre – UNICIENCIA (Python 3)**  
 Mini Proyecto 2 — Sistema de Batallas Pokémon
 
 Uso académico autorizado.  
