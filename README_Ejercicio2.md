@@ -1,5 +1,5 @@
 # 🐉 Mini Proyecto 2 — Pokémon Battle System  
-### *Introducción a la Programación (Python 3) – UNICIENCIA*
+### *Curso Nivelatorio 7mo Semestre (Python 3) – UNICIENCIA*
 
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/pandas-✓-yellow.svg)
